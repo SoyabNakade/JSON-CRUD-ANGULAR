@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "aniket kamble",
+      "email": "aniket@gmail.com",
+      "mobileno": "1234567891"
+    },
+    {
+      "id": 2,
+      "name": "soyab nakade",
+      "email": "s@gmail.com",
+      "mobileno": "1234567891"
+    }
+  ]
+}
